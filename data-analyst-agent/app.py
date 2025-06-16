@@ -5,7 +5,7 @@ from utils import read_file
 from together import Together
 
 # 🌐 Set Together API key
-os.environ["TOGETHER_API_KEY"] = "9575a824e21b22f570ea0cd63fced975b5ecf1dc62be2a2883ff44ddd712fd2d"
+os.environ["TOGETHER_API_KEY"] = "Your_API_KeY"
 client = Together()
 
 # 🚀 Streamlit config
