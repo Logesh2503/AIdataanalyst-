@@ -1,0 +1,11 @@
+streamlit==1.37.1
+pandas==2.2.2
+python-docx
+PyMuPDF
+pdfplumber
+openpyxl
+together
+requests
+pillow
+markdown
+matplotlib
